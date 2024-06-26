@@ -1,0 +1,14 @@
+Data Preprocessing for Predictive Modeling on Titanic Dataset:
+A comprehensive example of data preprocessing on the Titanic dataset, which includes cleaning, handling missing values, transformation, normalization, encoding, and feature engineering.
+
+Summary
+This code performs the following preprocessing steps on the Titanic dataset:
+
+1. Loading the Datasets: Load the train and test datasets using pandas.
+2. Handling Missing Values: Fill missing values in numerical columns with the median and in categorical columns with the mode. Drop columns with a high percentage of missing values.
+3. Encoding Categorical Variables: Encode binary categorical variables as numerical and apply one-hot encoding to non-binary categorical variables.
+4. Feature Engineering: Create new features such as FamilySize, IsAlone, and extract Title from the passenger names. Simplify and encode these new features.
+5. Scaling Numerical Features: Scale numerical features using StandardScaler.
+6. Preparing Data for Modeling: Drop unnecessary columns, align the columns of the test set to match those of the training set, and separate features and target.
+
+By following these steps, the data is cleaned, transformed, and ready for predictive modeling.
