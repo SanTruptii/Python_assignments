@@ -1,0 +1,34 @@
+Housing Price Prediction 🏡
+Project Overview:
+This project aims to predict housing prices using machine learning techniques, focusing on providing accurate and reliable predictions. The Decision Tree algorithm emerged as the best-performing model among the tested algorithms.
+
+Algorithms Used:
+
+Linear Regression
+Random Forest
+Decision Tree (Best Performing)
+Features:
+
+Data exploration with Pandas and NumPy
+Data preprocessing for optimal performance
+Feature scaling and selection using Min-Max scaling and scikit-learn
+Implementation of Linear Regression, Random Forest, and Decision Tree models
+Technologies:
+
+Python
+scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Goals:
+
+Predict housing prices with high accuracy
+Analyze the impact of different regression algorithms
+Provide a reliable model for real estate trends
+Methodology:
+
+Data Exploration: Conducted an in-depth analysis using Pandas and NumPy.
+Preprocessing: Cleaned and transformed data for optimal model performance.
+Feature Scaling and Selection: Applied Min-Max scaling and used scikit-learn's SelectFromModel for feature selection.
+Regression Models: Implemented and evaluated Linear Regression, Random Forest, and Decision Tree models.
