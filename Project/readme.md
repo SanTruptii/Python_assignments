@@ -1,5 +1,8 @@
 The Customer Lifetime Value (CLV) Prediction project focuses on estimating the potential future value that customers bring to a business over their entire relationship. By utilizing sophisticated statistical models like the Pareto/NBD and Gamma-Gamma frameworks, the project aims to provide businesses with actionable insights into customer behavior, enabling data-driven decision-making for marketing and customer retention strategies.
 
+Dataset Used: The project is based on the "Online Retail II" dataset from the UCI Machine Learning Repository, which includes transactional data of a UK-based online retailer from December 2009 to December 2011. 
+https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
+
 Project Overview
 
 1. Data Collection and Preparation:
